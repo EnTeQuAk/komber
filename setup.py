@@ -13,7 +13,7 @@ setup(
     long_description='',
     author='Christopher Grebs',
     author_email='christopher.grebs@native-instruments.de',
-    url='',
+    url='https://github.com/EnTeQuAk/komber',
     packages=['komber'],
     package_data={'': ['LICENSE']},
     include_package_data=True,
